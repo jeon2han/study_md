@@ -7,8 +7,9 @@
 <hr/>
  https://codevkr.tistory.com/46  참고하여 깃허브 작성
 
-<hr/>
+ https://backlog.com/git-tutorial/kr/    참고하여 깃허브 작성
 
+<hr/>
 폴더에 만든 파일은 현재 우리 컴퓨터 디렉토리(**작업 디렉토리**)에 있습니다.
 
 이 파일을 깃에 전달하기 위해서는 준비를 해야합니다(**스테이징 영역**)
@@ -17,7 +18,7 @@
 
 커밋한 파일들을 원격저장소로 업로드합니다(푸시- **원격저장소**)
 
- ![img](https://t1.daumcdn.net/cfile/tistory/9921A8335AEA9D9532)
+![img](https://t1.daumcdn.net/cfile/tistory/9921A8335AEA9D9532)
 
  <hr/>
 
