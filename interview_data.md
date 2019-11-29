@@ -40,10 +40,63 @@
         테이블의  하나의 셀에 여러값이 존재하면 릴레이션이 아니다. > 셀에 단일 값으로 변경
 
 <hr/>
+<hr/>
+# 한전( Korea Electric Power Corporation, KEPCO )
 
+blog.kepco.co.kr // 한전 뉴스 블로그 
 
+![image-20191128153259805](C:\Users\jeon\AppData\Roaming\Typora\typora-user-images\image-20191128153259805.png)
+
+![image-20191128153334829](C:\Users\jeon\AppData\Roaming\Typora\typora-user-images\image-20191128153334829.png)
 
 <hr/>
+
+진상 고객의 부당한 요구 처리 방법
+
+상사의 부당한 지시가 있을 때 어떻게 할 것인가?
+
+
+
+전문분야에서 친화력은 장점이 아님 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
